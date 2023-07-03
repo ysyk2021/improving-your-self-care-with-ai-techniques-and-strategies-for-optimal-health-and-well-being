@@ -1,4 +1,4 @@
-Designing Your AI-Powered Self-Care Strategy - Setting Realistic Goals and Tracking Progress on Your Self-Care Optimization Journey
+Setting Realistic Goals and Tracking Progress on Your Self-Care Optimization Journey
 ==============================================================================================================================================
 
 Before implementing AI-powered self-care tools, it's important to design a strategy that sets realistic goals and tracks progress towards those goals. In this chapter, we will explore how to design an effective self-care strategy using AI-powered tools.

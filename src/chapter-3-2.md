@@ -1,4 +1,4 @@
-Designing Your AI-Powered Self-Care Strategy - Integrating AI-Powered Tools for Tracking and Reflecting on Your Progress
+Integrating AI-Powered Tools for Tracking and Reflecting on Your Progress
 ===================================================================================================================================
 
 Integrating AI-powered tools into your self-care routine can help you track and reflect on your progress towards achieving your goals. In this chapter, we will explore how to integrate AI-powered tools for tracking and reflecting on your progress.

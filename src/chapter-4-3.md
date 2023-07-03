@@ -1,4 +1,4 @@
-Leveraging Machine Learning for Personalized Self-Care Support - Machine Learning-Powered Virtual Assistants for Self-Care Support
+Machine Learning-Powered Virtual Assistants for Self-Care Support
 =============================================================================================================================================
 
 Machine learning-powered virtual assistants can provide personalized self-care support and guidance to individuals. In this chapter, we will explore how machine learning-powered virtual assistants can be used for self-care support.

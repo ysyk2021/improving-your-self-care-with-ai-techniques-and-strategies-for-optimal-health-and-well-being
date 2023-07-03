@@ -1,4 +1,4 @@
-Understanding AI and Its Impact on Self-Care - Examples of Successful Implementation of AI in Self-Care
+Examples of Successful Implementation of AI in Self-Care
 ==================================================================================================================
 
 Artificial intelligence (AI) is revolutionizing the healthcare industry, including self-care. In this chapter, we will explore what AI is and its impact on self-care, as well as provide examples of successful implementation of AI in self-care.

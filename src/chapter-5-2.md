@@ -1,4 +1,4 @@
-Enhancing Physical Health with AI - AI-Powered Personalized Coaching for Improving Physical Health
+AI-Powered Personalized Coaching for Improving Physical Health
 =============================================================================================================
 
 Artificial intelligence (AI) technology is revolutionizing the way individuals approach physical health and fitness. By leveraging machine learning algorithms, AI-powered tools can provide personalized coaching and recommendations to help individuals achieve their physical health goals.
