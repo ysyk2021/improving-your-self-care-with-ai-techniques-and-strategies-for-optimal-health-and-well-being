@@ -1,5 +1,3 @@
-Personalizing Exercise Routines with Machine Learning
-====================================================================================================
 
 Physical activity is a critical component of self-care and maintaining optimal health. With the rise of artificial intelligence (AI) technology, individuals now have access to powerful tools that can help them personalize their exercise routines and achieve their physical activity goals.
 

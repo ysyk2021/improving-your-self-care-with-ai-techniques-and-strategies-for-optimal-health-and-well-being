@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Nutrition Tracking and Analysis
-========================================================================================================
 
 Tracking nutritional intake is an essential component of optimizing nutrition and achieving optimal health. With the rise of artificial intelligence (AI) technology, individuals now have access to powerful tools that can help them track and analyze their nutrition data.
 

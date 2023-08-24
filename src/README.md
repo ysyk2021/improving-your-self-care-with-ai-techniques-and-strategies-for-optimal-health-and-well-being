@@ -1,4 +1,3 @@
-# Introduction
 
 Self-care is the practice of taking an active role in maintaining and enhancing one's own health and well-being. It encompasses a broad range of activities, from getting enough sleep and exercise to practicing mindfulness and seeking professional medical care when necessary. In recent years, advances in technology have given rise to a new approach to self-care: the use of artificial intelligence (AI) to support and enhance wellness.
 

@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Self-Care Support
-=========================================================================
 
 Machine learning algorithms can be used to provide personalized self-care support by analyzing data about an individual's health and well-being and offering recommendations based on that analysis. In this chapter, we will explore three applications of machine learning in personalized self-care support.
 

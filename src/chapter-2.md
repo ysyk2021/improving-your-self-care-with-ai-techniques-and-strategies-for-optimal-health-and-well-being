@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Impact on Self-Care
-=======================================================
 
 Artificial intelligence (AI) is transforming the healthcare industry, including self-care. In this chapter, we will explore what AI is and how it works for enhancing self-care, as well as common applications of AI in self-care and examples of successful implementation.
 

@@ -1,5 +1,3 @@
-Personalizing Nutritional Goals with Machine Learning
-===============================================================================================
 
 Artificial intelligence (AI) technology is revolutionizing the way individuals approach nutrition and diet. By leveraging machine learning algorithms, AI-powered tools can provide personalized recommendations for optimizing nutrition and achieving optimal health and well-being.
 

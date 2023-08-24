@@ -1,5 +1,3 @@
-What is AI and How Does it Work for Enhancing Self-Care?
-==================================================================================================================
 
 Artificial intelligence (AI) technology has the potential to revolutionize the healthcare industry, including self-care. In this chapter, we will explore what AI is and how it works for enhancing self-care.
 

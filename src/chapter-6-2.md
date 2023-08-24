@@ -1,5 +1,3 @@
-AI-Powered Personalized Meal Planning and Recommendations
-===================================================================================================
 
 Personalized meal planning is an essential component of optimizing nutrition and achieving optimal health. With the rise of artificial intelligence (AI) technology, individuals now have access to powerful tools that can help them personalize their meal plans and make informed decisions about their diet.
 
