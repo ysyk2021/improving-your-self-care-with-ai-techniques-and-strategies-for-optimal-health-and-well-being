@@ -8,3 +8,7 @@ This book is intended for anyone interested in improving their self-care routine
 In the following chapters, we will explore the latest innovations in AI-powered self-care, offering practical tips and strategies for achieving optimal health and wellness. We will look at the benefits of incorporating AI into your self-care routine, as well as potential risks and ethical considerations. Ultimately, this book aims to empower readers to take charge of their own health and well-being by harnessing the power of AI.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
