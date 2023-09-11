@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Personalized Coaching for Improving Physical Health
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of AI-powered personalized coaching in improving physical health. By harnessing the capabilities of artificial intelligence (AI), individuals can receive customized guidance and support to enhance their well-being and achieve their health goals.
 

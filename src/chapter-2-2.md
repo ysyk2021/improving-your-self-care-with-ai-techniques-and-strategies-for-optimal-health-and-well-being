@@ -1,5 +1,4 @@
-Chapter 3: Common Applications of AI in Self-Care, including Fitness Tracking and Nutrition Management
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore common applications of artificial intelligence (AI) in self-care, focusing on two essential areas: fitness tracking and nutrition management. These applications leverage AI techniques and strategies to enhance individuals' ability to improve their health and well-being.
 

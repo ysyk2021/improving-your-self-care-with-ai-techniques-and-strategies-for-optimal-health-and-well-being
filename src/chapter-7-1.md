@@ -1,5 +1,4 @@
-Chapter 8: Addressing Concerns about Privacy and Security when Using AI in Personal Development
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we address concerns related to privacy and security when utilizing artificial intelligence (AI) in personal development. While AI offers numerous benefits for optimizing health and well-being, it is crucial to address the potential risks associated with data privacy and security.
 

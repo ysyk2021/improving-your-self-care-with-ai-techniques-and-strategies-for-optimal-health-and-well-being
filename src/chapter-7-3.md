@@ -1,5 +1,4 @@
-Chapter 12: Future Developments and Trends in AI-Powered Self-Care
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the exciting future developments and trends in AI-powered self-care. As artificial intelligence (AI) continues to advance, it will play an increasingly integral role in shaping the landscape of self-care and optimizing health and well-being.
 

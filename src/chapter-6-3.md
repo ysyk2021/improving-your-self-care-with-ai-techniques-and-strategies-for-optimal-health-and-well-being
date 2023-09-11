@@ -1,5 +1,4 @@
-第六章：使用机器学习定制个人营养目标
-==================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 机器学习（Machine Learning，ML）技术有着改变个体如何实现营养目标的潜力，通过提供个性化的建议和策略。在本章中，我们将探讨如何利用机器学习来根据个人需求、偏好和健康状况来个性化营养目标。
 

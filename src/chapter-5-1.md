@@ -1,5 +1,4 @@
-Chapter 8: Using Machine Learning-Powered Fitness Tracking and Analysis
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the benefits and applications of using machine learning-powered fitness tracking and analysis to improve self-care practices. Machine learning algorithms offer powerful tools for tracking and analyzing fitness data, providing individuals with valuable insights and personalized recommendations for optimizing their health and well-being.
 

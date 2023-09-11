@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does it Work for Enhancing Self-Care?
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has emerged as a groundbreaking technology with the potential to revolutionize various aspects of our lives, including self-care. In this chapter, we explore what AI is and how it works to enhance self-care strategies for optimal health and well-being.
 
